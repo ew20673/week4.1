@@ -7,7 +7,7 @@ import numpy as np
 # ax_left will be the left axes (number 1)
 # ax_right will be the right axes (number 2)
 #
-fig = plt.figure(figsize=(6, 4))
+fig = plt.figure(figsize=(5, 4))
 ax_left = fig.add_subplot(1, 2, 1)
 ax_right = fig.add_subplot(1, 2, 2)
 
